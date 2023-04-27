@@ -1,2 +1,8 @@
 streamlit
 pandas
+numpy
+matplotlib.pyplot
+pandas_datareader
+yfinance
+keras.models
+sys
