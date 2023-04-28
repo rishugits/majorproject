@@ -6,4 +6,4 @@ pandas_datareader
 yfinance
 keras.models
 sys
-matplotlib
+matplotlib==3.7.1
